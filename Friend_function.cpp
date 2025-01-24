@@ -31,6 +31,6 @@ int main(){
 
 Box b1(2,3,4);
 
-volume(b1);
+volume(b1);   // pass the object of class to the friend function 
 
 }
